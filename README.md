@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 A simple calculator using HTML, CSS and JS
 It performs simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -23,3 +23,9 @@ calculator/
 ├── index.html   
 ├── style.css   
 └── script.js 
+
+Hosted using Github Pages at: https://s-akshaya-sree.github.io/calculator/
+
+Preview:
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/1f8fc333-4f0f-4172-bc6b-eef9b861b708" />
